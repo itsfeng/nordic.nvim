@@ -15,11 +15,11 @@ local palette = {
 
     -- Grays
     -- This color is used on their website's dark theme.
-    gray0 = '#272b30', -- bg
+    gray0 = '#1f262b', -- bg
     -- Polar Night.
-    gray1 = '#2c323c',
-    gray2 = '#2c323c',
-    gray3 = '#2c323c',
+    gray1 = '#272b30',
+    gray2 = '#272b30',
+    gray3 = '#272b30',
     gray4 = '#2c323c',
 
     -- A light blue/gray.
