@@ -8,16 +8,16 @@ local palette = {
     none = 'NONE',
 
     -- Blacks. Not in base Nord.
-    black0 = '#191D24',
-    black1 = '#1E222A',
+    black0 = '#272b30',
+    black1 = '#272b30',
     -- Slightly darker than bg.  Very useful for certain popups
     black2 = '#222630',
 
     -- Grays
     -- This color is used on their website's dark theme.
-    gray0 = '#242933', -- bg
+    gray0 = '#2c323c', -- bg
     -- Polar Night.
-    gray1 = '#2E3440',
+    gray1 = '#708499',
     gray2 = '#3B4252',
     gray3 = '#434C5E',
     gray4 = '#4C566A',
@@ -27,20 +27,20 @@ local palette = {
     gray5 = '#60728A',
 
     -- Dim white.
-    white0 = '#BBC3D4',
+    white0 = '#afb4c3',
 
     -- Snow storm.
-    white1 = '#D8DEE9',
+    white1 = '#acbcc3',
     white2 = '#E5E9F0',
     white3 = '#ECEFF4',
 
     -- Frost.
-    blue0 = '#5E81AC',
+    blue0 = '#81a2be',
     blue1 = '#81A1C1',
     blue2 = '#88C0D0',
 
     cyan = {
-        base = '#8FBCBB',
+        base = '#7fb2c8',
         bright = '#9FC6C5',
         dim = '#80B3B2',
     },
@@ -54,22 +54,22 @@ local palette = {
         dim = '#B74E58',
     },
     orange = {
-        base = '#D08770',
+        base = '#de935f',
         bright = '#D79784',
         dim = '#CB775D',
     },
     yellow = {
-        base = '#EBCB8B',
+        base = '#f0c674',
         bright = '#EFD49F',
-        dim = '#E7C173',
+        dim = '#ebd2a7',
     },
     green = {
-        base = '#A3BE8C',
-        bright = '#B1C89D',
+        base = '#bdb968',
+        bright = '#749689',
         dim = '#97B67C',
     },
     magenta = {
-        base = '#B48EAD',
+        base = '#cc6666',
         bright = '#BE9DB8',
         dim = '#A97EA1',
     },
