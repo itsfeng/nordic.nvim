@@ -8,70 +8,70 @@ local palette = {
     none = 'NONE',
 
     -- Blacks. Not in base Nord.
-    black0 = '#272b30',
-    black1 = '#272b30',
+    black0 = '#1f262b',
+    black1 = '#1f262b',
     -- Slightly darker than bg.  Very useful for certain popups
-    black2 = '#222630',
+    black2 = '#1f262b',
 
     -- Grays
     -- This color is used on their website's dark theme.
-    gray0 = '#2c323c', -- bg
+    gray0 = '#272b30', -- bg
     -- Polar Night.
-    gray1 = '#708499',
-    gray2 = '#3B4252',
-    gray3 = '#434C5E',
-    gray4 = '#4C566A',
+    gray1 = '#2c323c',
+    gray2 = '#2c323c',
+    gray3 = '#2c323c',
+    gray4 = '#2c323c',
 
     -- A light blue/gray.
     -- From @nightfox.nvim.
-    gray5 = '#60728A',
+    gray5 = '#3e4452',
 
     -- Dim white.
     white0 = '#afb4c3',
 
     -- Snow storm.
-    white1 = '#acbcc3',
-    white2 = '#E5E9F0',
-    white3 = '#ECEFF4',
+    white1 = '#afb4c3',
+    white2 = '#afb4c3',
+    white3 = '#afb4c3',
 
     -- Frost.
     blue0 = '#81a2be',
-    blue1 = '#81A1C1',
-    blue2 = '#88C0D0',
+    blue1 = '#81a2be',
+    blue2 = '#81a2be',
 
     cyan = {
         base = '#7fb2c8',
-        bright = '#9FC6C5',
-        dim = '#80B3B2',
+        bright = '#7fb2c8',
+        dim = '#7fb2c8',
     },
 
     -- Aurora.
     -- These colors are used a lot, so we need variations for them.
     -- Base colors are from original Nord palette.
     red = {
-        base = '#BF616A',
-        bright = '#C5727A',
-        dim = '#B74E58',
+        base = '#cc6666',
+        bright = '#cc6666',
+        dim = '#cc6666',
     },
     orange = {
         base = '#de935f',
-        bright = '#D79784',
-        dim = '#CB775D',
+        bright = '#de935f',
+        dim = '#de935f',
     },
     yellow = {
         base = '#f0c674',
-        bright = '#EFD49F',
-        dim = '#ebd2a7',
+        bright = '#f0c674',
+        dim = '#f0c674',
     },
     green = {
         base = '#bdb968',
-        bright = '#749689',
-        dim = '#97B67C',
+        bright = '#bdb968',
+        dim = '#bdb968',
     },
     magenta = {
-        base = '#cc6666',
-        bright = '#BE9DB8',
-        dim = '#A97EA1',
+        base = '#b294bb',
+        bright = '#b294bb',
+        dim = '#b294bb',
     },
 }
 
